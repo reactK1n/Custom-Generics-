@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\reactKin\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\reactKin\\.nuget\\packages"
+    ]
+  }
+}
